@@ -1,2 +1,5 @@
 # hello-world
-Learning things and stuff
+
+Hi Humans!
+
+I like to do things. 
